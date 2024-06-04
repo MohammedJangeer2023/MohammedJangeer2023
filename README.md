@@ -4,7 +4,7 @@ I'm from Lancashire, England, currently in Western European Time 🌎 I'm keen t
 
 - 🔭 I'm working on my first Tailwind project, designing a replica of the Facebook page. 
 - 🌱 I recently built my first game, Slither, using JavaScript, CSS and HTML. 
-- 👯 I'm looking to join a collaborative comprehensive company and help build upon my skills in a work environment. 
+- 👯 I'm looking to join a collaborative comprehensive company and help build upon my skills in a professional environment. 
 
 <!--
 **MohammedJangeer2023/MohammedJangeer2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
